@@ -1,0 +1,8 @@
+# ignore everything
+*.*
+
+# except python files
+!*.py
+!*.ipynb
+!README.md
+!environment.yml
